@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>aoc2018</module>
+        <module>aoc2019</module>
     </modules>
     <packaging>pom</packaging>
 
